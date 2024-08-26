@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Playable GF.png">
+<SubTexture name="Playable GF danceLeft0000" x="1462" y="1774" width="488" height="863" frameX="-97" frameY="-75" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceLeft0001" x="975" y="1774" width="487" height="867" frameX="-95" frameY="-71" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceLeft0002" x="2528" y="0" width="486" height="872" frameX="-96" frameY="-66" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceLeft0003" x="2044" y="0" width="484" height="874" frameX="-97" frameY="-64" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceLeft0004" x="986" y="895" width="483" height="877" frameX="-96" frameY="-61" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceRight0000" x="0" y="1774" width="488" height="871" frameX="-105" frameY="-67" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceRight0001" x="488" y="1774" width="487" height="871" frameX="-104" frameY="-67" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceRight0002" x="2528" y="872" width="486" height="872" frameX="-103" frameY="-66" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceRight0003" x="1469" y="895" width="485" height="875" frameX="-99" frameY="-63" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF danceRight0004" x="986" y="895" width="483" height="877" frameX="-96" frameY="-61" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF left0000" x="2437" y="1774" width="491" height="849" frameX="-60" frameY="-84" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF left0001" x="1950" y="1774" width="487" height="850" frameX="-59" frameY="-83" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF left0002" x="2437" y="1774" width="491" height="849" frameX="-60" frameY="-84" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF down0000" x="1555" y="0" width="489" height="884" frameX="-113" frameY="-52" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF down0001" x="487" y="895" width="499" height="878" frameX="-107" frameY="-58" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF down0002" x="1555" y="0" width="489" height="884" frameX="-113" frameY="-52" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF right0000" x="0" y="0" width="539" height="895" frameX="-147" frameY="-44" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF right0001" x="539" y="0" width="539" height="893" frameX="-151" frameY="-46" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF right0002" x="0" y="0" width="539" height="895" frameX="-147" frameY="-44" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF up0000" x="0" y="895" width="487" height="879" frameX="-125" frameY="-51" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF up0001" x="1078" y="0" width="477" height="888" frameX="-131" frameY="-42" frameWidth="740" frameHeight="1010" />
+<SubTexture name="Playable GF up0002" x="0" y="895" width="487" height="879" frameX="-125" frameY="-51" frameWidth="740" frameHeight="1010" />
+</TextureAtlas>
