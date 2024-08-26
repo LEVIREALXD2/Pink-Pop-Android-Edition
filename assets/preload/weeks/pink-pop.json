@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"pink-pop",
+			"gf",
+			[
+				146,
+				0,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal, Koplo",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
